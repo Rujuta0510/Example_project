@@ -1,0 +1,7 @@
+This is my first Git practical.
+Name: Rujuta Bhushan Shetkar
+Class: TYBSc IT Div: A 
+Roll no: 49
+Subject: Configuration Management
+
+This file is created to understand Git add and commit commands.

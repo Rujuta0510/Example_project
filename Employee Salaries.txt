@@ -1,0 +1,8 @@
+Employee Salary Details
+
+1. Rahul Sharma - 45000
+2. Sneha Patil - 52000
+3. Amit Verma - 48000
+4. Priya Mehta - 50000
+
+This file is created for Git tracking demonstration.
