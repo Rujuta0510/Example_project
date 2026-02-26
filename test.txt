@@ -5,3 +5,4 @@ Roll no: 49
 Subject: Configuration Management
 
 This file is created to understand Git add and commit commands.
+This line is added to demonstrate file modification and staging.
