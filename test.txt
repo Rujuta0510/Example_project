@@ -6,4 +6,10 @@ Subject: Configuration Management
 
 This file is created to understand Git add and commit commands.
 This line is added to demonstrate file modification and staging.
+<<<<<<< HEAD
 This line is added to commit changes from hotfix branch.
+=======
+This change is made in test branch.
+This is a test change on test branch.
+>>>>>>> test
+this line is added to show initial commit.
